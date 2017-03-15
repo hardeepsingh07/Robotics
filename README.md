@@ -2,7 +2,7 @@
 Robotics C++ Programs
 
 1. WaypointFollow 
-   -Take files an input, containing waypoints. Follows each waypoint till file end is not reached.
+   - Take files an input, containing waypoints. Follows each waypoint till file end is not reached.
   
 2. GoalLaserObstacleAvoid 
    - Take Goal co-ordinates as an argument and calculate the path to reach goal while avoid obstacles using laser. 
